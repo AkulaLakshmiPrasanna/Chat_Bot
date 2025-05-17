@@ -68,19 +68,8 @@ Screenashot2:
 ![Screenshot (26)](https://github.com/user-attachments/assets/2d53b099-7c18-4c2e-8284-05f9df922c44)
 
 
-## Acknowledgement
-
-I would like to express my gratitude to my friend [Piyush](https://github.com/Piyush2709) for his invaluable assistance in the development of this chatbot application. His support and insights greatly contributed to the success of the project.
 
 
-# Contact
-Email: [shahajui92001@gmail.com]() 
-
-Github profile :  [https://github.com/Jui927]() 
-
-LinkedIn Profile: [https://www.linkedin.com/in/jui-shah09/]() 
-
-Portfoilio: [https://juishaha.freewebhostmost.com/]() 
 
 
 
